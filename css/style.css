@@ -1,0 +1,16 @@
+.row{
+    border: solid 1px red;
+    background-color: aqua;
+    padding: 10px;
+}
+
+img{
+    height: 55px;
+    width: 254px;
+}
+
+main{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: aliceblue;
+}
