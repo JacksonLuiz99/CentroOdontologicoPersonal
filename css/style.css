@@ -1,7 +1,13 @@
+body{
+    background-color: bisque;
+}
 .row{
-    border: solid 1px red;
-    background-color: aqua;
-    padding: 10px;
+    border: solid 1px blue;
+       padding: 10px;
+}
+
+.cabecalho{
+    background-color: orange;
 }
 .menu{
     
@@ -9,6 +15,44 @@
 
 main{
     font-family: 'Courier New', Courier, monospace;
-    background-color: black;
+    background-color: #840000;
     color: aliceblue;
+}
+
+.col{
+    height: 50px;
+    border: solid 1px yellow;
+}
+
+.row-cols-4{
+    background-color: green;
+}
+.par{
+    background-color: blueviolet;
+}
+
+.impar{
+    background-color: aquamarine;
+}
+
+.amazon.android.apple{
+    align-items: center;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 16px;
+}
+.amazon{
+    color: blueviolet;
+    background-color: #00d70b;
+}
+
+.apple{
+color: #10d3f6;
+background-color: #00078b;
+}
+
+.android{
+color: darkgreen;
+background-color: yellow;
 }
