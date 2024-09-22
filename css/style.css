@@ -1,5 +1,6 @@
 body{
-    background-color: bisque;
+    background-color: #ffffff;
+    padding-bottom: 300px;
 }
 .row{
     border: solid 1px blue;
@@ -8,15 +9,6 @@ body{
 
 .cabecalho{
     background-color: orange;
-}
-.menu{
-    
-}
-
-main{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: #840000;
-    color: aliceblue;
 }
 
 .col{
